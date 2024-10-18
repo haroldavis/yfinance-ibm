@@ -1,0 +1,12 @@
+pandas
+openpyxl
+lxml
+pillow
+matplotlib
+seaborn
+requests
+html5lib
+bs4
+yfinance
+plotly
+nbformat
